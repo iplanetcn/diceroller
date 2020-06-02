@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dice-roller</string>
+    <string name="btn_text_roll">roll</string>
+    <string name="cont_desc_dice_image">dice image</string>
+</resources>
